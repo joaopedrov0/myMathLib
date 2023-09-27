@@ -1,0 +1,11 @@
+{
+  "name": "mymathlib",
+  "main": "MyMathLib.js",
+  "version": "1.0.0",
+  "description": "A library that contains a lot of math expressions.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joaopedrov0",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+Arrumar o fatorial na combinatória

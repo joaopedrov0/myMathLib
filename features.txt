@@ -1,0 +1,16 @@
+Concluídas
+
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Exponenciação
+- Progressão aritmética
+- Progressão geométrica
+
+
+
+Pendentes
+
+- Probabilidade
+- Números binomiais

@@ -1,0 +1,15 @@
+{
+  "name": "mymathlib",
+  "version": "1.0.0",
+  "description": "A library with math expressions",
+  "main": "testEnviroment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm i && node testEnviroment.js"
+  },
+  "author": "joaopedrov0",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.16.0"
+  }
+}
